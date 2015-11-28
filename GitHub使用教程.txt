@@ -1,0 +1,11 @@
+创建本地版本库
+1、左上角+号，Create
+创建好之后，右上角，Publish
+
+2、右上角齿轮可以打开查看远程gitHub库的代码（在View on github）,也可以在这里删除分支，打开gitShell
+
+3、当本地修改以后，打开github for windows 会提示，按照提示可以进行提交Commit to master.
+
+4、提交之后，需要和远程gitHub库进行同步，右上角有 Sync按钮进行同步。
+
+5、需要在远程修改删除一个项目时候，在远程GitHub页面，右下角有Settings,里面包含有删除页面。
